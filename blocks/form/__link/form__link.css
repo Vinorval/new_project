@@ -1,0 +1,12 @@
+.form__link {
+    width: 144px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    color: #0062FF;
+    outline: none;
+    margin: auto;
+}

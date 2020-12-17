@@ -1,0 +1,7 @@
+.form__label {
+    width: 98%;
+    min-height: 32px;
+    border: 2px solid #667080;
+    display: flex;
+    justify-content: space-between;
+}

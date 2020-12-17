@@ -1,0 +1,17 @@
+.button-entry {
+    width: 104px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 28px;
+    line-height: 114%;
+    text-align: end;
+    background-color: white;
+    border: none;
+    background-image: url(../../image/стрелка\ назад.svg);
+    background-size: 16px 32px;
+    background-position: left;
+    background-repeat: no-repeat;
+    margin-bottom: 80px;
+
+}
