@@ -1,0 +1,8 @@
+.header__icons {
+    width: 88.75%;
+    height: 30px;
+    margin: auto;
+    padding: 13px 0;
+    display: flex;
+    justify-content: space-between;
+}
