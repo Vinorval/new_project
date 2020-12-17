@@ -18,3 +18,11 @@
 @import url(../blocks/form/__link/form__link.css);
 @import url(../blocks/form/__link/_position/form__link_position_last-of-type.css);
 @import url(../blocks/form/__button/form__button.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/info-list/info-list.css);
+@import url(../blocks/info-list/__helpful-info/info-list__helpful-info.css);
+@import url(../blocks/social-icons/social-icons.css);
+@import url(../blocks/social-icons/__icon-OK/social-icons__icon-OK.css);
+@import url(../blocks/social-icons/__icon-Vk/social-icons__icon-Vk.css);

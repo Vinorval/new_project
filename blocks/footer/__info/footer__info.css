@@ -1,0 +1,7 @@
+.footer__info {
+    width: 85%;
+    min-height: 60px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}

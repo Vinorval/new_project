@@ -1,0 +1,7 @@
+.social-icons {
+    width: 46px;
+    min-height: 16px;
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
