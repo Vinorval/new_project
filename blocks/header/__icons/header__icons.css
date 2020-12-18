@@ -2,7 +2,14 @@
     width: 88.75%;
     height: 30px;
     margin: auto;
-    padding: 13px 0;
     display: flex;
     justify-content: space-between;
+    align-items: center;
+}
+
+@media screen and (min-width: 1024px) {
+    .header__icons {
+        width: 81.57%;
+        height: 80px;
+    }
 }

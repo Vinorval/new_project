@@ -1,0 +1,9 @@
+.header__button-search {
+    width: 32px;
+    padding: 0;
+    background-color: #c4c4c4;
+    background-image: url(../../../image/magnifying-glass\ 1.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    border: none;
+}
