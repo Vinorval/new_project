@@ -1,0 +1,8 @@
+.card__texts {
+    border: 4px solid #667080;
+    width: 182px;
+    min-height: 92px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

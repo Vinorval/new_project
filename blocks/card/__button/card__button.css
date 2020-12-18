@@ -1,0 +1,12 @@
+.card__button {
+    width: 113px;
+    height: 32px;
+    background-color: #667080;
+    border: 2px solid #667080;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #E5E5E5;
+}

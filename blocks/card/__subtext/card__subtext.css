@@ -1,0 +1,11 @@
+.card__subtext {
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 32px;
+    color: #667080;
+    display: none;
+    width: 142px;
+    margin: auto;
+}
