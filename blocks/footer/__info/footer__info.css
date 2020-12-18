@@ -5,3 +5,10 @@
     display: flex;
     justify-content: space-between;
 }
+
+@media screen and (min-width: 1024px) {
+    .footer__info {
+        width: 81.25%;
+        min-height: 174px;
+    }
+}

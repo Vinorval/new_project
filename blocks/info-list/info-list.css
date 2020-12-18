@@ -5,3 +5,13 @@
     list-style-type: none;
     margin-top: 4px;
 }
+
+@media screen and (min-width: 1024px) {
+    .info-list {
+        width: 296px;
+        margin-top: 56px;
+        display: grid;
+        row-gap: 8px;
+        grid-template-rows: repeat(3, 16px);
+    }
+}
