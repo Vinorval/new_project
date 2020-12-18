@@ -9,3 +9,12 @@
 @import url(../blocks/header/__icon-profile/header__icon-profile.css);
 
 @import url(../blocks/main/main.css);
+
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/lead/__future-img/lead__future-img.css);
+@import url(../blocks/lead/__text-img/lead__text-img.css);
+@import url(../blocks/lead/__infolist-block/lead__infolist-block.css);
+@import url(../blocks/lead/__infolist/lead__infolist.css);
+@import url(../blocks/lead/__text/lead__text.css);
+@import url(../blocks/lead/__number/lead__number.css);
+@import url(../blocks/lead/__button/lead__button.css);
