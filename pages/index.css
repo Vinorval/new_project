@@ -35,3 +35,11 @@
 @import url(../blocks/card/__text/card__text.css);
 @import url(../blocks/card/__subtext/card__subtext.css);
 @import url(../blocks/card/__button/card__button.css);
+
+@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__info/footer__info.css);
+@import url(../blocks/info-list/info-list.css);
+@import url(../blocks/info-list/__helpful-info/info-list__helpful-info.css);
+@import url(../blocks/social-icons/social-icons.css);
+@import url(../blocks/social-icons/__icon-OK/social-icons__icon-OK.css);
+@import url(../blocks/social-icons/__icon-Vk/social-icons__icon-Vk.css);

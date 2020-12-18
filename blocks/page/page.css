@@ -2,4 +2,6 @@
     min-width: 320px;
     display: grid;
     row-gap: 24px;
+    font-family: Roboto, Arial, Helvetica, sans-serif;
+    font-style: normal;
 }
