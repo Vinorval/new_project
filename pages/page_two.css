@@ -19,6 +19,7 @@
 @import url(../blocks/entry/__button/entry__button.css);
 
 @import url(../blocks/form/form.css);
+@import url(../blocks/form/_place/form_place_registrartion.css);
 @import url(../blocks/form/__label/form__label.css);
 @import url(../blocks/form/__label/_place/form__label_place_registrartion.css);
 @import url(../blocks/form/__input/form__input.css);
