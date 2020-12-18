@@ -1,0 +1,13 @@
+.form__button-submit {
+    width: 272px;
+    height: 32px;
+    margin: 8px auto 84px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 16px;
+    color: #E5E5E5;
+    background-color: #667080;
+    border: 2px solid #667080;
+}

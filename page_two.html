@@ -45,5 +45,27 @@
             </nav>
         </div>
     </footer>
+    <section class="popup">
+        <div class="popup__container">
+            <div class="popup__title-block">
+              <h2 class="popup__title">Регистрация</h2>
+              <button type="button" class="popup__button-close"></button>
+            </div>
+            <form class="form" name="form-registrartion">
+                <label class="form__label form__label_place_registrartion">
+                    <input type="text" name="registrartion-login" class="form__input" placeholder="Мобильный телефон или почта">
+                </label>
+                <label class="form__label form__label_place_registrartion">
+                    <input type="text" name="registrartion-password" class="form__input" placeholder="Пароль">
+                    <button class="form__button-close-password"></button>
+                </label>
+                <p class="form__text">Минимальная длина пароля - 8 символов.</p>
+                <p class="form__text">Нажимая на кнопку «Зарегистрироваться»,
+                    &shy;Вы принимаете наши <a href="#" class="form__link form__link_place_registrartion">Условия обслуживания.</a></p>
+                <p class="form__text">Читать <a href="#" class="form__link form__link_place_registrartion">Политика конфиденциальности.</a></p>
+                <button type="submit" class="form__button-submit">Принять и зарегистрироваться</button>   
+            </form>
+        </div>
+    </section>
 </body>
 </html>

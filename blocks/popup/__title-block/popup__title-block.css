@@ -1,0 +1,7 @@
+.popup__title-block {
+    width: 272px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 24px auto 80px;
+}
