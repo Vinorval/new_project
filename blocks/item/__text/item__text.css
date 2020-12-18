@@ -1,0 +1,10 @@
+.item__text {
+    width: 206px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #667080;
+    margin: 0;
+}
