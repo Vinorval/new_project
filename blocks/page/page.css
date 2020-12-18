@@ -5,3 +5,9 @@
     font-family: Roboto, Arial, Helvetica, sans-serif;
     font-style: normal;
 }
+
+@media screen and (min-width: 1024px) {
+    .page {
+        row-gap: 56px;
+    }
+}

@@ -15,7 +15,9 @@
 
 @import url(../blocks/content/content.css);
 
-@import url(../blocks/button-entry/button-entry.css);
+@import url(../blocks/entry/entry.css);
+@import url(../blocks/entry/__button/entry__button.css);
+
 @import url(../blocks/form/form.css);
 @import url(../blocks/form/__label/form__label.css);
 @import url(../blocks/form/__label/_place/form__label_place_registrartion.css);
