@@ -7,3 +7,5 @@
 @import url(../blocks/header/__icon-menu/header__icon-menu.css);
 @import url(../blocks/header/__icon-logo/header__icon-logo.css);
 @import url(../blocks/header/__icon-profile/header__icon-profile.css);
+
+@import url(../blocks/main/main.css);
