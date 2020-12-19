@@ -6,3 +6,10 @@
     flex-direction: column;
     justify-content: center;
 }
+
+@media screen and (min-width: 1024px) {
+    .card__texts {
+        width: 336px;
+        min-height: 160px;
+    }
+}

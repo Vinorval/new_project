@@ -6,3 +6,11 @@
     margin: auto;
     max-width: 320px;
 }
+
+@media screen and (min-width: 1024px) {
+    .info__items {
+        display: flex;
+        justify-content: space-between;
+        max-width: 1040px;
+    }
+}

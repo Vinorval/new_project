@@ -8,3 +8,9 @@
     line-height: 16px;
     color: #E5E5E5;
 }
+
+@media screen and (min-width: 1024px) {
+    .card__button {
+        width: 176px;
+    }
+}
