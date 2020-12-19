@@ -5,3 +5,10 @@
     color: #E5E5E5;
     margin: auto;
 }
+
+@media screen and (min-width: 1024px) {
+    .lead__text-img {
+        font-size: 18px;
+        line-height: 21px;
+    }
+}

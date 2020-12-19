@@ -4,3 +4,9 @@
     margin-bottom: 24px;
     display: flex;
 }
+
+@media screen and (min-width: 1024px) {
+    .lead__infolist-block {
+        display: none;
+    }
+}

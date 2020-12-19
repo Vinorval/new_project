@@ -1,0 +1,8 @@
+@media screen and (min-width: 1024px) {
+    .lead {
+        border: 4px solid #667080;
+        display: grid;
+        grid-template-columns: 37% 1fr;
+        column-gap: 216px;
+    }
+}
